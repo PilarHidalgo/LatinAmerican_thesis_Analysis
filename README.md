@@ -1,7 +1,8 @@
 # LatinAmerican_thesis_Analysis
 This repository contains documentation about the paper: Social and scientific relevance of Undergraduate Theses in Latin America
 
-## Process in obtaining and processing data: We used scraping and crawling techniques to obtain data. These procedures have limitations. Legality and ethics of using these tools are often overlooked. In order not to incur legal faults [24], we followed the following rules:
+## Process in obtaining and processing data: 
+We used scraping and crawling techniques to obtain data. These procedures have limitations. Legality and ethics of using these tools are often overlooked. In order not to incur legal faults [24], we followed the following rules:
 
 - Use the free access API2 to collect information from Google Scholar, through the Serapi3 tool.
 - Avoid pages that contain blocking codes CAPTCHA4.

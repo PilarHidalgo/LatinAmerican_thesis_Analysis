@@ -8,6 +8,9 @@ We used scraping and crawling techniques to obtain data. These procedures have l
 - Avoid pages that contain blocking codes CAPTCHA4.
 - The use of the mentioned data is for the exclusive purpose of scientific dissemination and teaching, not for commercial purposes.
 
+  ![grap1](https://github.com/PilarHidalgo/LatinAmerican_thesis_Analysis/assets/37567214/89d4a6c6-6c9e-4584-9905-5fe03c5d2c69)
+
+
 To obtain metrics, the procedure was:
 
 - For social relevance: compliance with the items of social relevance that must contain at least one thesis work is evaluated. To avoid manual reading, we used the technique of natural language processing (NLP) Word2Vec [26], which automatically identifies the terms and stores them in registers to determine if the thesis under study mentions terms of social relevance defined by the theoretical framework [27].
@@ -15,7 +18,10 @@ To obtain metrics, the procedure was:
 
 ## Data analysis:
 
-In this phase, we carried out an expert validation (Appendix B) for the assessment of the instrument to measure the social and scientific relevance presented in this work.
+In this phase, we apply the instrument to measure the social and scientific relevance presented in this work.
+![gra2](https://github.com/PilarHidalgo/LatinAmerican_thesis_Analysis/assets/37567214/745d2470-6842-489b-a95b-cf691b71d6b9)
+
+
 
 ## Metrics description:
 
